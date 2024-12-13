@@ -1,0 +1,3 @@
+[submodule "si_gh_actions"]
+	path = si_gh_actions
+	url = https://github.com/brian-silabs/si_gh_actions.git
