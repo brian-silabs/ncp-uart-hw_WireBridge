@@ -1,5 +1,5 @@
 targets:
-  - target_opn: "brd4186a"
+  - target_opn: "brd4186c"
     configs: "SL_BOARD_ENABLE_VCOM:1"
   - target_opn: "EFR32MG21A020F1024IM32"
     configs: ""
